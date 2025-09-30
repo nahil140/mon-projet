@@ -1,0 +1,11 @@
+body {
+  font-family: Helvetica;
+  background-color: #33ff00;
+  color: #5815a5;
+  margin: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
