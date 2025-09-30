@@ -9,3 +9,26 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+header {
+    display: flex;
+
+
+    background-color: white;
+}
+
+nav ul.menu {
+  list-style: none;       
+  display: flex;             
+  padding: 0;             
+  margin: 0;                
+}
+
+nav ul.menu li {
+  margin: 0 15px;            
+}
+
+nav ul.menu li a {
+  text-decoration: none;      
+  color: #333;               
+}
