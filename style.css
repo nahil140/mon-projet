@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica;
-  background-color: #33ff00;
+  background-color: #e5ff00;
   color: #5815a5;
   margin: 0;
 }
@@ -14,7 +14,7 @@ header {
     display: flex;
 
 
-    background-color: white;
+    background-color: rgb(0, 81, 255);
 }
 
 nav ul.menu {
